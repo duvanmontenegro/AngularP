@@ -7,5 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'primerproyecto';
+  // title = 'primerproyecto';
+  title = 'Primera App';
+  variable = 'Variable o propiedad la cual se puede reutilizar'
 }
